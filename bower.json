@@ -1,0 +1,22 @@
+{
+  "name": "addevent",
+  "version": "1.6.1",
+  "authors": [
+    "support@addevent.com"
+  ],
+  "description": "\"Add to Calendar\" button for websites and newsletters. Add an \"Add to Calendar\" button to your event pages, schedule, calendars, intranet etc.",
+  "main": "atc.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "calendar",
+    "widget",
+	"button",
+    "event",
+    "intranet",
+	"schedule"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.addevent.com"
+}
