@@ -1,2 +1,2 @@
-# addevent-bower-package
-AddEvent.com "Add to Calendar" package for Bower
+# addevent-npm-package
+AddEvent.com "Add to Calendar" package for npm
